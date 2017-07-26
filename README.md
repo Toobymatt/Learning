@@ -1,13 +1,3 @@
 Learning
-=======
-This repository will be usefull to get part of code, config and more.
 
-##### Language
-* [NodeJS](https://nodeschool.io/fr-fr/) - NodeSchool is an open source project run by volunteers with two goals: to create high quality programming curriculum and to host community learning events.
-* [ReactJS](https://facebook.github.io/react/) - A JavaScript library for building user interfaces.
-
-##### Unit test
-* [Behat](https://gist.github.com/cordoval/1206686) - A php framework for autotesting your business expectations.
-
-##### Miscellaneous
-* [Meetup](https://www.meetup.com/fr-FR/) - Meetup brings people together in thousands of cities to do more of what they want to do in life.
+This repository will contain features (CRUD, stuff like that) of code (web, software, ...), configs (vim, zsh, ...).
