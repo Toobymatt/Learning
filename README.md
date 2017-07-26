@@ -8,3 +8,6 @@ This repository will be usefull to get part of code, config and more.
 
 ##### Unit test
 * [Behat](https://gist.github.com/cordoval/1206686) - A php framework for autotesting your business expectations.
+
+##### Miscellaneous
+* [Meetup](https://www.meetup.com/fr-FR/) - Meetup brings people together in thousands of cities to do more of what they want to do in life.
